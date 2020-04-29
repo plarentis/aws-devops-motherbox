@@ -262,6 +262,10 @@
 #### Integrations with CodePipeline Action Types: 
 [https://docs.aws.amazon.com/codepipeline/latest/userguide/integrations-action-type.html#integrations-deploy](https://docs.aws.amazon.com/codepipeline/latest/userguide/integrations-action-type.html#integrations-deploy)
 
+### Using AWS CodePipeline, AWS CodeBuild, and AWS Lambda for Serverless Automated UI Testing
+[https://aws.amazon.com/blogs/devops/using-aws-codepipeline-aws-codebuild-and-aws-lambda-for-serverless-automated-ui-testing/](https://aws.amazon.com/blogs/devops/using-aws-codepipeline-aws-codebuild-and-aws-lambda-for-serverless-automated-ui-testing/)
+
+
 ## Security Automation
 
 #### Policy Simulator
